@@ -11,7 +11,7 @@ You can:
 - Put a reminder.
 - Delete a reminder for a task.
 </br>
-Try it here: https://task-tracker-gabrieldim.netlify.app/
+
 </br>
 </br>
 
